@@ -1,12 +1,6 @@
 <?php
 
 /*
-Plugin Name: branches
-Plugin URI: http://www.novamedia.ir/
-Description: Nova branches manager
-Author: Nova Media
-Version: 1.0
-Text Domain: branch_text_domain
 
  */
 // Register Custom Post Type
