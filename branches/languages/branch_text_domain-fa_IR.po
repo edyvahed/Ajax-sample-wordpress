@@ -1,0 +1,143 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: branches\n"
+"POT-Creation-Date: 2015-01-15 10:37+0330\n"
+"PO-Revision-Date: 2015-01-15 10:53+0330\n"
+"Last-Translator: eddie vahed <amirhossinv@gmail.com>\n"
+"Language-Team: eddie vahed <amirhossinv@gmail.com>\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: branches.php:21
+msgctxt "Post Type General Name"
+msgid "branches"
+msgstr "شعب"
+
+#: branches.php:22
+msgctxt "Post Type Singular Name"
+msgid "branch"
+msgstr "شعبه"
+
+#: branches.php:23
+msgid "Branches"
+msgstr "شعب"
+
+#: branches.php:24
+msgid "Parent branch:"
+msgstr "دسته بندی مادر "
+
+#: branches.php:25
+msgid "All Branches"
+msgstr "همه شعب"
+
+#: branches.php:26
+msgid "View branch"
+msgstr "نمایش شعبه"
+
+#: branches.php:27
+msgid "Add New branch"
+msgstr "افزودن شعبه جید"
+
+#: branches.php:28
+msgid "Add New"
+msgstr "افزودن"
+
+#: branches.php:29
+msgid "Edit branch"
+msgstr "ویرایش شعبه"
+
+#: branches.php:30
+msgid "Update branch"
+msgstr "به روز رسانی شعبه"
+
+#: branches.php:31
+msgid "Search branch"
+msgstr "جستجو شعبه"
+
+#: branches.php:32
+msgid "Not found"
+msgstr "یافت نشد"
+
+#: branches.php:33
+msgid "Not found in Trash"
+msgstr "در سطل زباله یافت نشد"
+
+#: branches.php:36
+msgid "branches"
+msgstr "شعب"
+
+#: branches.php:37
+msgid "Post Type Description"
+msgstr "توضیحات نوع نوشته"
+
+#: branches.php:66
+msgctxt "Taxonomy General Name"
+msgid "Regions"
+msgstr "محدوده ها"
+
+#: branches.php:67
+msgctxt "Taxonomy Singular Name"
+msgid "Region"
+msgstr "محدوده"
+
+#: branches.php:68
+msgid "Region"
+msgstr "محدوده"
+
+#: branches.php:69
+msgid "All Regions"
+msgstr "تمام محدوده‌ها"
+
+#: branches.php:70
+msgid "Parent Region"
+msgstr "دسته بندی مادر محدوده"
+
+#: branches.php:71
+msgid "Parent Region:"
+msgstr "دسته بندی مادر مجموعه"
+
+#: branches.php:72
+msgid "New Region Name"
+msgstr "نام محدوده جدید"
+
+#: branches.php:73
+msgid "Add New Region"
+msgstr "یک محدوه جدید اضافه نمایید"
+
+#: branches.php:74
+msgid "Edit Region"
+msgstr "ویرایش محدوده"
+
+#: branches.php:75
+msgid "Update Region"
+msgstr "به روزرسانی محدوده"
+
+#: branches.php:76
+msgid "Separate regions with commas"
+msgstr "محدوه‌ها را با کاما از هم جدا نمایید"
+
+#: branches.php:77
+msgid "Search regions"
+msgstr "جستجو محدوده"
+
+#: branches.php:78
+msgid "Add or remove regions"
+msgstr "اضافه و حذف محدوده"
+
+#: branches.php:79
+msgid "Choose from the most used regions"
+msgstr "از میان پربازدید ترین محدوده‌ها انتخاب نمایید"
+
+#: branches.php:80
+msgid "Not Found"
+msgstr "یافت نشد"
